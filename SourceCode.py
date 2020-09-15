@@ -19,7 +19,7 @@ print("""
 time.sleep(2)
 print("Creator  -  NiRAJ ")
 time.sleep(0.3)
-print("https://xdwolf.cf  \n")
+print("https://xdwolf.tk  \n")
 time.sleep(0.2)
 
 num=input('Input How Many Codes to Generate and Check: ')
